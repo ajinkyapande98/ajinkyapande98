@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajinkya Pande</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding width='400' src='https://cdn.hashnode.com/res/hashnode/image/upload/v1675632099977/cf8abf9f-f80f-4e2f-936f-d961910b99f6.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyapande98&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyapande98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyapande98" alt="ajinkyapande98" /></a> </p>
